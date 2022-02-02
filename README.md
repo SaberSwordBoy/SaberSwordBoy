@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @SaberSwordBoy
+- (You can call me bryce, brice, or cassie :)
+- My pronouns are She/Her or He/Him, i'm not picky!
 - 👀 I’m interested in programming, filmmaking, and creating awesome things!
-- 🖥 I'm a Python focused dev, but I also have a little experience in web development and JavaScript! I also am starting to get into game dev. 
+- 🖥 I mainly use Python, But I love to experiment!
+- Devices: Parrot OS Laptop | Raspi 4 (2) | Raspi 0 | Windows 10 Laptop | Apple Iphone 12 | Ipad Mini 4 
 - 📫 Contact me at sabercodeboy@gmail.com for whatever reasons!
 
 <!---
